@@ -13,7 +13,7 @@ lang: "en"
 plugins:
   # Automatically fetch Medium follower count
   - MediumFollowersCountPlugin:
-      username: zhgchgli
+      username: speedpassion
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
@@ -25,13 +25,13 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Speedpassion Community"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "@speedpassion community"
 
 # Tagline section text
 tagline: >-
@@ -142,7 +142,7 @@ socials:
 
 # Footer text
 footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
+    <a target="_blank" href="https://www.amts.hu"><img title="UNIX - AUTÓ, MOTOR ÉS TUNING SHOW 2025. március 28-30. Budapest, Hungexpo" src="https://www.amts.hu/download/HU-AMTS-2025-970x250.gif" alt="UNIX - AUTÓ, MOTOR ÉS TUNING SHOW 2025. március 28-30. Budapest, Hungexpo" width="970" height="250" border="0" ></a>
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
